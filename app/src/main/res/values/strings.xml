@@ -4,4 +4,8 @@
     <string name="action_settings">Settings</string>
     <string name="pressure">Pressure (P)</string>
     <string name="area">Area (A)</string>
+    <string name="stress">Stress (ϭ)</string>
+    <string name="strain">Strain (e)</string>
+    <string name="chlength">Change in length (δl)</string>
+    <string name="young">Young's Modulus (E)</string>
 </resources>
